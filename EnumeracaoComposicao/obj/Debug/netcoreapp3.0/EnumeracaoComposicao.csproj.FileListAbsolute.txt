@@ -1,0 +1,11 @@
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.exe
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.deps.json
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.runtimeconfig.json
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.runtimeconfig.dev.json
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.dll
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\bin\Debug\netcoreapp3.0\EnumeracaoComposicao.pdb
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\obj\Debug\netcoreapp3.0\EnumeracaoComposicao.csprojAssemblyReference.cache
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\obj\Debug\netcoreapp3.0\EnumeracaoComposicao.AssemblyInfoInputs.cache
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\obj\Debug\netcoreapp3.0\EnumeracaoComposicao.AssemblyInfo.cs
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\obj\Debug\netcoreapp3.0\EnumeracaoComposicao.dll
+D:\OneDrive\source\CSharpCompleto2020\EnumeracaoComposicao\obj\Debug\netcoreapp3.0\EnumeracaoComposicao.pdb
